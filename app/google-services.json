@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374749593161",
+    "project_id": "vishu-bot",
+    "storage_bucket": "vishu-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374749593161:android:e8c5a3e211112e854bc998",
+        "android_client_info": {
+          "package_name": "com.example.vishu_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25LHDz52adFuik1vt1vwzUp0xfy0Tee0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
